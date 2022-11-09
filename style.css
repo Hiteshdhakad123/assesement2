@@ -1,0 +1,25 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background-image: url(./BACKGROUND.jpg);
+    border: 1px solid green;
+}
+
+p,h4{
+    text-align: center;
+    color: brown;
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+    color: brown;
+}
+.box1{
+    height: 400px;
+    width: 400px;
+    background-image: url(./css\ 2_1.jpg);
+    border: 1 px solid gray;
+    border-radius: 50%;
+    text-align: center;
+    margin: 30px;
+}
